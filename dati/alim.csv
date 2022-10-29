@@ -1,0 +1,363 @@
+1;1;1;crema pistacchio;26;24
+2;1;1;albicocche disidratate;61;56
+3;1;1;cioccolato fondente;30;28
+4;1;1;Fico;146;135
+5;1;1;gelato artigianale alla frutta;120;111
+6;1;1;mandorle;27;25
+7;1;1;marmellata;65;60
+8;1;1;miele;47;44
+9;1;1;nocciole;26;24
+10;1;1;nutella;28;26
+11;1;1;zucchero (x caffe);40;37
+12;1;1;Banana;177;164
+13;1;2;biscotti tipo frollini [g];56;52
+14;1;2;biscotti con gocce di cioccolato;53;49
+15;1;2;biscotti tipo gran cereale;57;52
+16;1;2;biscotti tipo novellini;59;54
+17;1;2;biscotti tipo oro saiwa;60;55
+18;1;2;cereali da colazione;73;68
+19;1;2;cracker (senza strutto);66;61
+20;1;2;crostata con marmellata;77;71
+21;1;2;fette biscottate;68;63
+22;1;2;fiocchi di avena/riso/mais;75;69
+23;1;2;gallette di mais, riso, ecc.. (variare);72;67
+24;1;2;kellogs;69;63
+25;1;2;latte di avena / miglio;591;545
+26;1;2;latte di riso;531;490
+27;1;2;muesli al cioccolato;54;50
+28;1;2;muesli alla frutta;57;53
+29;1;2;nutella biscuit;51;47
+30;1;2;pan carr /pane semidolce /pane al latte;79;73
+31;1;2;pancake proteico;72;66
+32;1;2;pancake senza burro;112;103
+33;1;2;pane senza strutto o latte;104;96
+34;1;2;pane tipo gran bauletto rustico;93;86
+35;1;2;pistoccu;73;67
+36;1;2;plumcake;63;59
+37;1;2;riso soffiato;71;65
+38;1;2;torta allo yogurt / alle mele (senza burro);105;97
+39;1;2;torta di carote;98;91
+40;1;2;yogurt di avena;371;343
+41;1;5;anacardi;18;17
+42;1;5;avocado;65;60
+43;1;5;cracker di semi;19;17
+44;1;5;latte di mandorla / cocco / nocciola / ecc..;433;400
+45;1;5;latte di mandorla senza zuccheri;800;738
+46;1;5;latte di soia;260;240
+47;1;5;latte macchiato;182;168
+48;1;5;latte p. Scr. con cacao;117;108
+49;1;5;latte parz. Scremato;325;300
+50;1;5;mandorle;18;17
+51;1;5;nocciole;17;16
+52;1;5;noci / pecan;16;15
+53;1;5;pinoli;17;16
+54;1;5;pistacchi;19;17
+55;1;5;semi di canapa;18;17
+56;1;5;semi di girasole;19;17
+57;1;5;semi di zucca;18;17
+58;1;5;sesamo;18;17
+59;1;5;yogurt di cocco granarolo;132;122
+60;1;5;yogurt di mandorla / cocco alpro;193;178
+61;1;5;yogurt di soia;168;155
+62;1;5;yogurt intero nat/ frutta;118;109
+63;1;5;yogurt magro bianco;242;223
+64;1;5;yogurt magro frutta;142;132
+65;1;5;yogurt soia bianco;168;155
+66;2;3;Albicocca;151;279
+67;2;3;albicocche disidratate;25;47
+68;2;3;anacardi;11;21
+69;2;3;Ananas;118;218
+70;2;3;anguria;217;400
+71;2;3;Arancia;144;267
+72;2;3;Banana;74;136
+73;2;2;biscotti tipo oro saiwa;15;28
+74;2;2;biscotto gran cereale;14;26
+75;2;3;cachi;51;94
+76;2;5;cappuccino;81;150
+77;2;3;Ciliegie;130;240
+78;2;3;clementine;138;255
+79;2;2;cracker ai semi;12;22
+80;2;2;fette biscottate;17;31
+81;2;3;fichi india;159;293
+82;2;3;Fico;61;112
+83;2;3;Fragole;203;375
+84;2;3;frullato senza zucchero;108;200
+85;2;2;gallette di mais, riso, ecc.. (variare);18;33
+86;2;2;grissini senza strutto (integrali/bianchi);18;32
+87;2;3;Kiwi;127;235
+88;2;3;Lamponi;181;333
+89;2;2;latte di avena;148;273
+90;2;5;latte nocciole;271;500
+91;2;2;latte cocco;271;500
+92;2;5;latte di mandorla senza zuccheri;500;923
+93;2;2;latte di cereali;133;245
+94;2;3;macedonia;130;240
+95;2;3;Mandarino;130;240
+96;2;5;mandorle;11;21
+97;2;3;mango;108;200
+98;2;3;Mela;125;231
+99;2;3;Melograno;88;162
+100;2;3;Melone;120;222
+101;2;3;Mirtilli;186;343
+102;2;3;More;151;279
+103;2;5;nocciole;11;20
+104;2;5;noci / pecan;10;18
+105;2;3;papaya;151;279
+106;2;3;Pera;118;218
+107;2;3;pesca;159;293
+108;2;5;pistacchi;12;21
+109;2;3;Pompelmo;130;240
+110;2;3;prugna;138;255
+111;2;5;semi di girasole;12;22
+112;2;5;semi di zucca;11;21
+113;2;3;spremuta arancia;144;267
+114;2;3;succo di ananas;123;226
+115;2;3;succo di frutta;148;273
+116;2;3;uva;93;171
+117;2;5;yogurt di avena;93;171
+118;2;5;yogurt di cocco granarolo;82;152
+119;2;5;yogurt di mandorla / cocco alpro;120;222
+120;2;5;yogurt di soia;105;194
+121;2;5;yogurt intero naturale o alla frutta;74;136
+122;2;5;yogurt magro bianco;151;279
+123;2;5;yogurt magro frutta;89;164
+124;2;5;yogurt soia bianco o frutta;105;194
+125;2;3;Zenzero;81;150
+126;2;3;zenzero disidratato;19;35
+127;3;2;amaranto ;44;77
+128;3;2;avena ;42;72
+129;3;2;cracker senza strutto ;44;76
+130;3;2;farro;46;80
+131;3;2;frumento ;47;82
+132;3;2;gnocchi;104;179
+133;3;2;pane tipo gran bauletto rustico;58;100
+134;3;2;grano saraceno ;47;82
+135;3;2;grissini con olio (integrali/bianchi);44;76
+136;3;2;mais;45;77
+137;3;2;miglio;42;73
+138;3;2;orzo;50;86
+139;3;2;pan carr  / semidolce  / al latte;49;85
+140;3;2;pane di panificio;65;112
+141;3;2;pasta fillo (frumento);46;80
+142;3;2;pasta fresca (no uovo);61;106
+143;3;2;pistoccu;46;78
+144;3;2;quinoa;46;80
+145;3;2;riso bianco/integrale ;45;78
+146;3;2;yogurt di avena;232;400
+147;3;2;segale ;50;87
+148;3;2;patate crude;211;364
+149;3;4;Asparagi;451;778
+150;3;4;Barbabietola;189;326
+151;3;4;Bietola;428;737
+152;3;4;Broccoli;232;400
+153;3;4;Carciofo;173;298
+154;3;4;carota;226;389
+155;3;4;Cavoletto di Bruxelles;189;326
+156;3;4;Cavolfiore;325;560
+157;3;4;Cavolo cinese;625;1077
+158;3;4;Cavolo rapa;301;519
+159;3;4;Cavolo riccio;166;286
+160;3;4;Cavolo rosso;280;483
+161;3;4;cavolo cappuccio;406;700
+162;3;4;Cetriolo;542;933
+163;3;4;Cipolla;203;350
+164;3;4;costine;428;737
+165;3;4;Crescione;428;737
+166;3;4;Fagiolini;406;700
+167;3;4;Finocchio;262;452
+168;3;4;Funghi;369;636
+169;3;4;Insalata;580;1000
+170;3;4;Melanzana;339;583
+171;3;4;Peperone;387;667
+172;3;4;pomodoro;406;700
+173;3;4;Porro;262;452
+174;3;4;Ravanello;508;875
+175;3;4;Rucola;325;560
+176;3;4;sedano;542;933
+177;3;4;sedano rapa;369;636
+178;3;4;Spinaci;353;609
+179;3;4;verza;406;700
+180;3;4;Zucca;428;737
+181;3;4;Zucchina;406;700
+182;3;6;olio oliva;9;16
+183;3;6;pesto;18;31
+184;3;6;olio vegetale ;9;16
+185;3;6;olive sottolio;32;55
+186;3;6;mandorle;14;24
+187;3;6;noci / pecan;12;21
+188;3;6;nocciole;14;23
+189;3;6;anacardi;14;24
+190;3;6;pistacchi;14;25
+191;3;6;semi di zucca;14;25
+192;3;6;semi di girasole;15;25
+193;3;6;semi di canapa;14;25
+194;3;6;avocado;51;88
+195;3;6;pinoli;14;24
+196;3;6;sesamo;14;24
+197;3;6;maionese vegetale;15;27
+198;5;2;amaranto  (chicco, farina, pasta confezionata, cous cous, bulgur..);4;5
+199;5;2;avena (chicco, farina, pasta confezionata, cous cous, bulgur..);4;5
+200;5;2;cracker integrali;4;5
+201;5;2;cracker magretti galbusera;4;5
+202;5;2;cracker senza strutto;4;5
+203;5;2;farro (chicco, farina, pasta confezionata, cous cous, bulgur..);5;6
+204;5;2;frumento (chicco, farina, pasta confezionata, cous cous, bulgur..);5;6
+205;5;2;gallette di mais, riso, ecc.. (variare);5;6
+207;5;2;gran bauletto rustico;6;7
+208;5;2;gran cereale;4;4
+209;5;2;grano saraceno (chicco, farina, pasta confezionata, cous cous, bulgur..);5;6
+210;5;2;grissini con olio (integrali/bianchi);4;5
+211;5;2;grissini con strutto;4;5
+212;5;2;mais;4;5
+213;5;2;miglio;4;5
+214;5;2;orzo (chicco, farina, pasta confezionata, cous cous, bulgur);5;6
+215;5;2;pan carr /pane semidolce /pane al latte;5;6
+216;5;2;pane (integrale, bianco, di frumento, di farro, di segale, di kamut..) senza strutto o latte;7;8
+217;5;2;pasta fillo;5;6
+218;5;2;pasta fresca (no uovo);6;8
+219;5;2;pistoccu;5;6
+220;5;2;quinoa (chicco, farina, pasta confezionata, cous cous, bulgur..);5;6
+221;5;2;riso  (chicco, farina, pasta confezionata, cous cous, bulgur);5;6
+222;5;2;segale;5;6
+223;5;2;yogurt di avena;23;29
+224;5;2;segale (chicco, farina, pasta confezionata, cous cous, bulgur..);5;6
+225;5;2;patate;21;26
+226;5;4;Asparagi;451;556
+227;5;4;Barbabietola;189;233
+228;5;4;Bietola;428;526
+229;5;4;Broccoli;232;286
+230;5;4;Carciofo;173;213
+231;5;4;carota;226;278
+232;5;4;Cavoletto di Bruxelles;189;233
+233;5;4;Cavolfiore;325;400
+234;5;4;Cavolo cinese;625;769
+235;5;4;Cavolo rapa;301;370
+236;5;4;Cavolo riccio;166;204
+237;5;4;Cavolo rosso;280;345
+238;5;4;cavolo cappuccio;406;500
+239;5;4;Cetriolo;542;667
+240;5;4;Cipolla;203;250
+241;5;4;costine;428;526
+242;5;4;Crescione;428;526
+243;5;4;Fagiolini;406;500
+244;5;4;Finocchio;262;323
+245;5;4;Funghi;369;455
+246;5;4;Insalata;580;714
+247;5;4;Melanzana;339;417
+248;5;4;Peperone;387;476
+249;5;4;pomodoro;406;500
+250;5;4;Porro;262;323
+251;5;4;Ravanello;508;625
+252;5;4;Rucola;325;400
+253;5;4;sedano;542;667
+254;5;4;sedano rapa;369;455
+255;5;4;Spinaci;353;435
+256;5;4;verza;406;500
+257;5;4;Zucca;428;526
+258;5;4;Zucchina;406;500
+259;5;5;acciughe /sardine fresche;124;153
+260;5;5;cozza;96;118
+261;5;5;gamberi freschi / surgelati;198;244
+262;5;5;merluzzo;155;190
+263;5;5;nasello fresco / surgelato;229;282
+264;5;5;orata/branzino;134;165
+265;5;5;pesce spada;94;116
+266;5;5;polpo ;99;122
+267;5;5;salmone affumicato;111;136
+268;5;5;salmone fresco;96;118
+269;5;5;sgombro fresco/  in scatola al naturale;97;119
+270;5;5;sogliola/persico;196;241
+271;5;5;tonno fresco;152;187
+272;5;5;tonno in scatola al naturale;152;187
+273;5;5;tonno sottolio sgocciolato;98;120
+274;5;5;vongola;110;135
+275;5;5; Caciocavallo (dimezzare porzione grassi);42;51
+276;5;5; Caciotta stagionata (dimezzare porzione grassi);45;56
+277;5;5;Provola (dimezzare porzione grassi);44;55
+278;5;5;Scamorze (dimezzare porzione grassi);77;95
+279;5;5;Asiago;44;54
+280;5;5;caprino di mucca;75;92
+281;5;5;Edam  (dimezzare porzione grassi);53;66
+282;5;5;feta;65;80
+283;5;5;fiocchi di latte;181;222
+284;5;5;Fontal  (dimezzare porzione grassi);49;60
+285;5;5;formaggio di capra fresco;91;112
+286;5;5;formaggio primo sale;61;75
+287;5;5;formaggio Quark ;239;294
+288;5;5;latte parz. Scremato;508;625
+289;5;5;Montasio;39;48
+290;5;5;Mozzarella fiordilatte (dimezzare porzione grassi);68;83
+291;5;5;parmigiano /grana;43;53
+292;5;5;ricotta fresca;111;137
+293;5;5;robiola;52;65
+294;5;5;stracchino;54;67
+295;5;5;yogurt al naturale;246;303
+296;5;5;yogurt intero naturale;0;0
+297;5;5;yogurt magro bianco;378;465
+298;5;5;yogurt magro frutta;223;274
+299;5;5;arachidi (senza sale);29;35
+300;5;5;castagne;77;95
+301;5;5;ceci cotti (anche in scatola);223;274
+302;5;5;ceci secchi / pasta di ceci / pasta ceci e riso;45;55
+303;5;5;cicerchie;55;68
+304;5;5;edamame;111;136
+305;5;5;fagioli cotti;156;192
+306;5;5;fagioli freschi;168;206
+307;5;5;fagioli secchi;49;60
+308;5;5;fave fresche;217;267
+309;5;5;fave secche /pasta di;48;59
+310;5;5;germogli di soia;542;667
+311;5;5;latte di soia;406;500
+312;5;5;lenticchie secche / pasta di lenticchie / pasta di piselli;50;62
+313;5;5;seitan;118;145
+314;5;5;lupini;49;61
+315;5;5;piselli freschi;206;253
+316;5;5;piselli secchi;57;70
+317;5;5;soia fresca;111;136
+318;5;5;soia lessata ;163;200
+319;5;5;soia secca;43;52
+320;5;5;spaghetti di soia;75;93
+321;5;5;tofu fresco;214;263
+322;5;5;tofu secco;163;200
+323;5;5;yogurt soia bianco;262;323
+324;5;5;lenticchie bollite;177;217
+325;5;5;bresaola;108;0
+326;5;5;coniglio;143;0
+327;5;5;pollo senza pelle;148;0
+328;5;5;tacchino;152;0
+329;5;5;manzo / vitello magro;141;0
+330;5;5;prosciutto cotto magro;76;0
+331;5;5;prosciutto crudo magro;102;0
+332;5;5;bistecca;36;0
+333;5;5;hamburger manzo;108;0
+334;5;5;faraona (petto / cosce);108;0
+335;5;5;agnello;107;0
+336;5;5;capretto magro;106;0
+337;5;5;mandorle;28;35
+338;5;5;anacardi;28;34
+339;5;5;pistacchi;29;36
+340;5;5;semi di zucca;29;35
+341;5;5;semi di girasole;29;36
+342;5;5;semi di canapa;29;35
+343;5;5;avocado;102;125
+344;5;5;pinoli;27;34
+345;5;5;latte di mandorla senza zuccheri;1250;1538
+346;5;5;cracker ai semi;30;36
+347;5;5;sesamo;28;35
+348;5;5;uovo;127;156
+349;5;6;olio oliva;7;9
+350;5;6;olio vegetale (arachidi, lino, ecc..);7;9
+351;5;6;olive sottolio sgocciolate;25;31
+352;5;6;pesto;14;17
+353;5;6;mandorle;11;14
+354;5;6;noci / pecan;10;12
+355;5;6;nocciole;11;13
+356;5;6;anacardi;11;14
+357;5;6;pistacchi;12;14
+358;5;6;semi di zucca;11;14
+359;5;6;semi di girasole;12;14
+360;5;6;semi di canapa;11;14
+361;5;6;pinoli;11;13
+362;5;6;cracker ai semi;12;15
+363;5;6;sesamo;11;14
+364;5;6;arachidi (senza sale);11;14
